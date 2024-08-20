@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" height="200"/> 
 </div>
 
-<h1 align="center">👋 Hey there, I'm Akshat Jaiswal!</h1>
+<h1 align="center">👋 Hey there, I'm Ayush Singh!</h1>
 
 <h3 align="center">🚀 A Passionate Computer Science & Engineering Student at KIIT University 🚀 </h3>
 
