@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing my B.Tech. in Computer Science & Engineering from KIIT University.<br>💻 I'm passionate about coding and constantly learning new technologies.<br>💡 I'm always open to collaborating on exciting projects and learning from others.
+I am presently engaged in the pursuit of a Bachelor of Technology degree in Computer Science & Engineering at KIIT University.<br>💻  I possess a deep-seated passion for the art of coding and actively dedicate myself to the acquisition of knowledge in emerging technologies.<br>💡 Moreover, I enthusiastically welcome opportunities to collaborate on stimulating projects and enrich my understanding through interactions with fellow enthusiasts.
 
 
 ## 🌐 Socials:
